@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Que los usuarios tengan una base sólida en el manejo de bases de datos de encuestas en hogares con R
+Que los usuarios tengan una base sólida en el manejo R y conceptos básicos de programación.
 
 ### Temario
 
