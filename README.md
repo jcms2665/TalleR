@@ -1,4 +1,4 @@
-# CURSO DE CAPACITACIÓN DEL SOFTWARE R
+# R
 
 ### Objetivo
 
